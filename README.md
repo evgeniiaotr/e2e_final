@@ -30,6 +30,9 @@ For building model in the next steps highly correlated features should be delete
 ![cor matrix](/Screenshot_32.jpg) 
 
 ## Model Information
+**[lab2_building_model_done.ipynb](/lab2_building_model_done.ipynb) contains the proccess of building models**
+
+
 ***Features of our data set***: open_plan, rooms, area, renovation  
 ***Target of our data set***: last_price
 
